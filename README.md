@@ -1,4 +1,4 @@
-# nexus--maven-samples
+# nexus--maven-sample
 Series of tutorial code snippets for use
 #Maven publish tutorial steps
 Publishing artifact to Nexus snapshot and release repo using maven.
